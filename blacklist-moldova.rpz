@@ -2,9 +2,7 @@ $TTL 3600
 @ SOA localhost root.localhost. 1728139384 43200 3600 259200 300
  NS localhost.
 
-; updated at 05-10-2024 17:45
-
-
+; updated at 09-10-2024 09:08
 100casoo.com CNAME .
 *.100casoo.com CNAME .
 *.10bet.com CNAME .
@@ -3209,3 +3207,8 @@ yandex.ru CNAME .
 *.yandex.ru CNAME .
 dzen.ru CNAME .
 *.dzen.ru CNAME .
+moldova24.org CNAME .
+*.moldova24.org CNAME .
+moldova-24.live CNAME .
+*.moldova-24.live CNAME .
+pwa.moldova-24.live CNAME .

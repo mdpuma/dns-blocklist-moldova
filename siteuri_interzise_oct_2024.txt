@@ -3,3 +3,6 @@ pwa.moldova24.online
 rutube.ru
 yandex.ru
 dzen.ru
+moldova24.org
+moldova-24.live
+pwa.moldova-24.live

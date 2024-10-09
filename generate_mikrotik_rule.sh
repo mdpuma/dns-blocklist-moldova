@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # routeros6 
-cat siteuri_interzise_bet.md.txt siteuri_intersize_oct_2024.txt | while read i; do
+cat siteuri_interzise_betting.txt siteuri_interzise_oct_2024.txt | while read i; do
 	echo "add address=127.0.0.1 name=$i ttl=120m";
 	
 	# is 2nd domain
