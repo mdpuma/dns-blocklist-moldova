@@ -6,3 +6,5 @@ dzen.ru
 moldova24.org
 moldova-24.live
 pwa.moldova-24.live
+curentmd.com
+novostimd.com
