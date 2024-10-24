@@ -2,7 +2,7 @@ $TTL 3600
 @ SOA localhost root.localhost. 1728139384 43200 3600 259200 300
  NS localhost.
 
-; updated at 18-10-2024 21:15
+; updated at 24-10-2024 14:53
 100casoo.com CNAME .
 *.100casoo.com CNAME .
 *.10bet.com CNAME .
@@ -3216,3 +3216,19 @@ curentmd.com CNAME .
 *.curentmd.com CNAME .
 novostimd.com CNAME .
 *.novostimd.com CNAME .
+mobilejumptech.com CNAME .
+*.mobilejumptech.com CNAME .
+mobilejumps.info CNAME .
+*.mobilejumps.info CNAME .
+newmobilejumptech.com CNAME .
+*.newmobilejumptech.com CNAME .
+newmobilejumps.cloud CNAME .
+*.newmobilejumps.cloud CNAME .
+mobijumps.tech CNAME .
+*.mobijumps.tech CNAME .
+mobijumps.cloud CNAME .
+*.mobijumps.cloud CNAME .
+newmobilejumps.com CNAME .
+*.newmobilejumps.com CNAME .
+newmobijumps.com CNAME .
+*.newmobijumps.com CNAME .
