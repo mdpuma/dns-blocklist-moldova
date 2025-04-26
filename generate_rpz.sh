@@ -1,5 +1,6 @@
 #!/bin/bash
 
+in="$*"
 out=blacklist-moldova.rpz
 
 rm -v $out;
@@ -12,7 +13,7 @@ cat >> $out <<EOF
 ; updated at $(date "+%d-%m-%Y %H:%M")
 EOF
 
-cat siteuri_interzise_betting.txt siteuri_interzise_oct_2024.txt | while read i; do
+cat $in | while read i; do
 	echo "$i CNAME ." >> $out
 	
 	# is 2nd domain
