@@ -2,8 +2,16 @@ $TTL 3600
 @ SOA localhost root.localhost. 1728139384 43200 3600 259200 300
  NS localhost.
 
-; updated at 26-04-2025 09:39
-moldova-24.online CNAME .
-*.moldova-24.online CNAME .
-salutmld.su CNAME .
-*.salutmld.su CNAME .
+; updated at 30-07-2025 13:05
+haitv.md CNAME .
+*.haitv.md CNAME .
+pl4rma.com CNAME .
+*.pl4rma.com CNAME .
+benzac.de CNAME .
+*.benzac.de CNAME .
+goo.su CNAME .
+*.goo.su CNAME .
+mldvideo24.site CNAME .
+*.mldvideo24.site CNAME .
+newseday.site CNAME .
+*.newseday.site CNAME .
