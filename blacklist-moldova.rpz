@@ -2,16 +2,21 @@ $TTL 3600
 @ SOA localhost root.localhost. 1728139384 43200 3600 259200 300
  NS localhost.
 
-; updated at 30-07-2025 13:05
-haitv.md CNAME .
-*.haitv.md CNAME .
-pl4rma.com CNAME .
-*.pl4rma.com CNAME .
-benzac.de CNAME .
-*.benzac.de CNAME .
-goo.su CNAME .
-*.goo.su CNAME .
-mldvideo24.site CNAME .
-*.mldvideo24.site CNAME .
-newseday.site CNAME .
-*.newseday.site CNAME .
+; updated at 20-09-2025 20:05
+vocepentru.com CNAME .
+*.vocepentru.com CNAME .
+vocea-mea.online CNAME .
+*.vocea-mea.online CNAME .
+vocepentru.eu CNAME .
+*.vocepentru.eu CNAME .
+restmedia.io CNAME .
+*.restmedia.io CNAME .
+rybar.ru CNAME .
+*.rybar.ru CNAME .
+parlamentleak.com CNAME .
+*.parlamentleak.com CNAME .
+glassmountain.io CNAME .
+*.glassmountain.io CNAME .
+ir.press.ru CNAME .
+mostenire.online CNAME .
+*.mostenire.online CNAME .
