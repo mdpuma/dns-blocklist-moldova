@@ -2,7 +2,7 @@ $TTL 3600
 @ SOA localhost root.localhost. 1728139384 43200 3600 259200 300
  NS localhost.
 
-; updated at 20-09-2025 20:05
+; updated at 25-09-2025 21:05
 vocepentru.com CNAME .
 *.vocepentru.com CNAME .
 vocea-mea.online CNAME .
@@ -20,3 +20,30 @@ glassmountain.io CNAME .
 ir.press.ru CNAME .
 mostenire.online CNAME .
 *.mostenire.online CNAME .
+mldvideo24.com CNAME .
+*.mldvideo24.com CNAME .
+moldova-24.com CNAME .
+*.moldova-24.com CNAME .
+moldova24.biz CNAME .
+*.moldova24.biz CNAME .
+premiumlive.net CNAME .
+*.premiumlive.net CNAME .
+nlive-24.org CNAME .
+*.nlive-24.org CNAME .
+mostenire.su CNAME .
+*.mostenire.su CNAME .
+mldv24.com CNAME .
+*.mldv24.com CNAME .
+mld24.com CNAME .
+*.mld24.com CNAME .
+newseday.org CNAME .
+*.newseday.org CNAME .
+mld-24.com CNAME .
+*.mld-24.com CNAME .
+mldv-24.com CNAME .
+*.mldv-24.com CNAME .
+newmds.com CNAME .
+*.newmds.com CNAME .
+; 120d CNAME .
+lgbtmoldova.support CNAME .
+*.lgbtmoldova.support CNAME .
